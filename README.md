@@ -31,14 +31,14 @@
 ### 🌱 Currently Learning
 - MERN Stack advanced features (OAuth, deployment, Redux, etc.)
 - Web Security fundamentals (XSS, CSRF, IDOR)
-- DSA in C++ via Take U Forward roadmap
+- DSA in C++
 - Competitive Programming basics on Codeforces
 
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/-Email-c14438?logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/s4gn1k)
+[![Email](https://img.shields.io/badge/-Email-c14438?logo=gmail&logoColor=white)](mailto:sagnikghosh.dev@email.com)
 
 ---
 
