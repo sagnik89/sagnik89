@@ -27,17 +27,6 @@
 ---
 
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagnik89&theme=radical" alt="GitHub Streak" />
-</p>
-
-
----
-
-## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/s4gn1k)  [![Email](https://img.shields.io/badge/-Email-c14438?logo=gmail&logoColor=white)](mailto:sagnikghosh.dev@email.com)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/sagnik89)
-
+![](https://komarev.com/ghpvc/?username=sagnik89&color=green)
 
 ---
